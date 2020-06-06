@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/controlsfx-8.40.10.jar"/>
+	<classpathentry kind="lib" path="libs/controlsfx-8.40.9.jar"/>
+	<classpathentry kind="lib" path="libs/fxAnimation.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/httpClient/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/java-json.jar"/>
+	<classpathentry kind="lib" path="libs/mongodb/mongo-java-driver-2.13.2.jar"/>
+	<classpathentry kind="lib" path="libs/openjfx-dialogs-1.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/openjfx-dialogs-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
